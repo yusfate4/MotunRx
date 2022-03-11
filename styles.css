@@ -1,0 +1,47 @@
+body {
+    font-family: Arial;
+    background-color: #6B8E23 rgba(107,142,35);
+
+}
+
+h2 {
+    background-color:Orange;
+    color:white;
+    text-decoration-line: underline;
+    text-align: center;
+    font-size: 40px;
+
+}
+
+
+h3 {
+    background-color:black;
+    color:#696969;
+    font-size: 20px;
+}
+
+
+img {
+    background-color: red;
+}
+
+
+fieldset { 
+        background-color:#556B2F rgb(85,107,47);
+      }
+
+
+h1 { 
+    color: white;
+    margin-left: 154px;
+
+}
+
+.lily{
+        color:orange;
+        line-height: 40px;
+        letter-spacing: 4px;
+        column-count: 2;
+        column-gap: 60px;
+        text-align: right;
+      }
